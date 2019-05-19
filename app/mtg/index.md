@@ -1,3 +1,11 @@
+---
+
+title: MTG Title
+date: yyyy-MM-dd
+description: 記事の要約
+
+---
+
 
 # MTG Title
 
